@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Jurisdiction-neutral sample calendar and chart-mapping fixture. Not validated filing support.
-- A Financial integration needs to reuse the capabilities of @x12i/financial-rules-reference inside a larger application.
+- Load a jurisdiction-neutral calendar and sample account-classification rule.
+- Test generic rule-package integration without claiming validated filing support.
 
 ## Links
 
