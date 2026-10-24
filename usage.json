@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/financial-rules-reference",
+  "packageVersion": "2.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/financial-rules-reference",
+  "usageRepository": "https://github.com/x12i-sdk/financial-rules-reference",
+  "sourceRepository": "https://github.com/x12i/finanfix",
+  "sourceCommit": "8630e4c4f201deb35cd10c3790c9d5abdbce4633",
+  "sourcePackageDirectory": "packages/rules-reference",
+  "example": {
+    "title": "Read a financial rule fixture and check its support statement",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:18:54.827634+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "ae24353b7bad7ea409db55c361e6276049f793a42bc63aa8209e628b77ea0fa2",
+    "manifestSha256": "f1131019191882e216e23294d89f101f724d613dc76a15408e627baaf74ff008"
+  }
+}
